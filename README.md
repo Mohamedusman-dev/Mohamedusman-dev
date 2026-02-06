@@ -45,9 +45,6 @@ I enjoy solving real-world problems and continuously learning new technologies t
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<br />
 ---
 
 ### 🚀 Highlights
