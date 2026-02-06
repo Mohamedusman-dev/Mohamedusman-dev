@@ -31,13 +31,9 @@ I'm a passionate Full Stack Developer with strong experience in building modern,
 I work mainly with React, Node.js, Firebase, and cloud-based solutions.
 I enjoy solving real-world problems and continuously learning new technologies to improve my craft.
 </p>
-
 ---
-
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
