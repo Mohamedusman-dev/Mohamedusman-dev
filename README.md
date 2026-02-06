@@ -25,7 +25,9 @@ Full Stack Web Developer | JavaScript Engineer | Cloud & Backend Enthusiast
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-  
+
+---
+
 <p align="center">
 I'm a passionate Full Stack Developer with strong experience in building modern, scalable, and user-friendly web applications.
 I work mainly with React, Node.js, Firebase, and cloud-based solutions.
