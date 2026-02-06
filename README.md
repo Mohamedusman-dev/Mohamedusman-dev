@@ -1,5 +1,3 @@
-<!--Banner-->
-![Kiran1689 Banner Image](acb1fea6-3249-4036-bb3f-3fc5865d544a.png)
 
 <!--Night Owl image-->
 <div>
