@@ -42,7 +42,7 @@ I enjoy solving real-world problems and continuously learning new technologies t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="[(https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif)">
 </picture>
 <br />
 
