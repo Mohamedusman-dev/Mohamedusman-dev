@@ -40,6 +40,7 @@ I enjoy solving real-world problems and continuously learning new technologies t
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+
 ### 🚀 Highlights
 - 🚀 Experience building real-world full stack applications  
 - 💼 Freelancing & personal projects with modern tech stack  
