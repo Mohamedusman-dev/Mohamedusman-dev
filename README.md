@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Kiran1689 Banner Image](https://drive.google.com/file/d/1d_liCN-Ke5_m8vTvd001CtDBWS3zMjmF/view?usp=sharing)
 
 <!--Night Owl image-->
 <div>
